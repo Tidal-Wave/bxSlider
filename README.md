@@ -39,7 +39,7 @@ Then, put the main javascript file at the bottom, right after jQuery:
 <script src="bxSlider/bxslider.min.js"></script>
 ```
 
-Wrap your slider elements (`li`, `img`, `a`, `div`, `span`, etc.) with a container element (`div`, `ul` etc.). 
+You can use any element, such as `li`, `img`, `a`, `div`,or `span`,  for you slides. Wrap your slider elements with a container, such as a `div,` or `ul` element.
 
 ```html
 <div class="bxslider">
@@ -80,7 +80,7 @@ To customize bxSlider, define which plugins to build into the distribution by ed
 
 The gitub [issue tracker](https://github.com/Tidal-Wave/bxSlider/issues) is the preferred channel for bug reports, features requests, and submitting pull requests.
 
-####Please, do NOT use the issue tracker for personal support requests. Stack Overflow ([`bxslider`](http://stackoverflow.com/questions/tagged/bxslider)) is a much better place to get help, and will generally be a lot quicker too.
+#####Please, do NOT use the issue tracker for personal support requests. Stack Overflow ([`bxslider`](http://stackoverflow.com/questions/tagged/bxslider)) is a much better place to get help, and will generally be a lot quicker too.
 
 ### Bug reports
 
@@ -102,7 +102,7 @@ Feature requests are welcome, but take a moment to find out whether your idea fi
 
 A good pull request is a such a huge help. Please be sure they remain focused in scope, tidy, and don't contain any unrelated commits.
 
-#####Please note:
+#####Important
 **Please ask first** before embarking on any significant pull request (e.g. implementing features, refactoring code, porting to a different language), otherwise you risk spending a lot of time working on something that the project's developers might not want to merge into the project.
 
 Adhering to the following process is the best way to get your work included in the project:
