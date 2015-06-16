@@ -2,7 +2,7 @@
 
 Feature Rich [jQuery](http://jquery.com/) plugin that lets you create touch enabled sliders. 
 
-### Please consider that the project is still in beta. 
+### Please understand that this project is still in beta. 
 
 The current status of the milestones can be found [here](https://github.com/Tidal-Wave/bxSlider/milestones). 
 
