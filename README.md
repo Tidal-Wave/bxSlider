@@ -53,6 +53,8 @@ You can use any element, such as `li`, `img`, `a`, `div`,or `span`,  for you sli
 </div>
 ```
 
+#### Step 3 - Initialize
+
 Call the [plugin](http://learn.jquery.com/plugins/) function and your carousel is ready.
 
 ```javascript
